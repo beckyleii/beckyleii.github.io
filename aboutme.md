@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "Why you'd want to hire me"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Shiqi Lei, you can also call me Becky. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Master of Science in Data Science @ Brown University
+- Bachelor of Ccience in Actuarial Science & Minor in Statistics @ University of Connecticut
 
 What else do you need?
 
