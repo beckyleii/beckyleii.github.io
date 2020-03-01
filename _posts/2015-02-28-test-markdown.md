@@ -29,8 +29,8 @@ How about a yummy crepe?
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 <div style="text-align:center;">
-  <a href="https://github.com/beckyleii/beckyleii.github.io/blob/master/img/avatar-icon.png">
-    <img src="https://github.com/beckyleii/beckyleii.github.io/blob/master/img/avatar-icon.png" alt="course logo" style="width: 180px;">
+  <a href="https://github.com/beckyleii/beckyleii.github.io/img/avatar-icon.png">
+    <img src="https://github.com/beckyleii/beckyleii.github.io/img/avatar-icon.png" alt="Test1" style="width: 180px;">
   </a>
 </div>
 <br/>
