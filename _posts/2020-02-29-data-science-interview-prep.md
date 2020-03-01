@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Data Science Interview Prep
-subtitle: Excerpt from _Cracking the Data Science Interview_ by Maverick Lin
-bigimg: /img/what-is-data-science.jpg
+subtitle: Excerpt from Cracking the Data Science Interview by Maverick Lin
+bigimg: /img/path.jpg
 tags: [books, test]
 ---
 
