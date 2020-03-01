@@ -4,4 +4,4 @@
 
 Shiqi's website [https://beckyleii.github.io/](https://beckyleii.github.io/)
 
-The theme for this website has been open-sourced as [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) and [Dean Attali](https://deanattali.com).
+The theme for this website has been open-sourced as [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/).
