@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
+title: Data Science Interview Prep
+subtitle: Excerpt from _Cracking the Data Science Interview_ by Maverick Lin
+bigimg: /img/what-is-data-science.jpg
 tags: [books, test]
 ---
 
