@@ -21,8 +21,8 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Linkedin: "www.linkedin.com/in/shiqi-lei"
+  Projects:
+    - CNN: "https://tongxinw.github.io/bangali.ai/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 
