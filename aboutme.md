@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "Why you'd want to hire me :heart:"
+subtitle: "Why you'd want to hire me"
 ---
 
 My name is Shiqi Lei, you can also call me Becky. 
