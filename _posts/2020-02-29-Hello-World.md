@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello, World!
-image: /img/staw_bear.png
+image: /img/staw_bear.jpg
 ---
 
 This is my first post on a leap year day! 
